@@ -9,9 +9,9 @@
 ![Socket](https://img.shields.io/badge/Socket-Standard_Library-555555?style=for-the-badge)
 ![UDP](https://img.shields.io/badge/UDP-IPv4-008080?style=for-the-badge)
 
-</div>
-
 [Overview](#overview) • [Technology Stack](#technology-stack) • [Getting Started](#getting-started) • [Usage](#usage) • [Helper Methods](#helper-methods) • [Implementation Notes](#implementation-notes)
+
+</div>
 
 ## Overview
 
